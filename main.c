@@ -15,6 +15,7 @@ int main(){
  unsigned long i,j,k;
  int i;
  int j;
+ int m;
 
  a->dw[0]=0xcfffffff;
  i = a->dw[0]>>16;
