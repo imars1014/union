@@ -13,6 +13,8 @@ typedef union{
 int main(){
  Entry* a= malloc(sizeof(Entry));
  unsigned long i,j,k;
+ int i;
+ int j;
 
  a->dw[0]=0xcfffffff;
  i = a->dw[0]>>16;
