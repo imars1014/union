@@ -19,6 +19,9 @@ int main(){
  int x;
 
  int zz;
+ int yy;
+ int aa;
+    
 
  a->dw[0]=0xcfffffff;
  i = a->dw[0]>>16;
