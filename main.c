@@ -18,7 +18,7 @@ int main(){
  int m=0;
  int x;
 
- int z;
+ int zz;
 
  a->dw[0]=0xcfffffff;
  i = a->dw[0]>>16;
