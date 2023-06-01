@@ -18,6 +18,8 @@ int main(){
  int m=0;
  int x;
 
+ int z;
+
  a->dw[0]=0xcfffffff;
  i = a->dw[0]>>16;
  j=  a->w[1];
