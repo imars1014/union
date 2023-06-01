@@ -19,9 +19,13 @@ int main(){
  int x;
 
  int zz;
+<<<<<<< Updated upstream
  int yy;
  int aa;
     
+=======
+ int bb;
+>>>>>>> Stashed changes
 
  a->dw[0]=0xcfffffff;
  i = a->dw[0]>>16;
