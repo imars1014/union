@@ -16,6 +16,7 @@ int main(){
  int i=0;
  int j=0;
  int m=0;
+ int x;
 
  a->dw[0]=0xcfffffff;
  i = a->dw[0]>>16;
